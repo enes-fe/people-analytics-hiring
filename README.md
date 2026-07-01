@@ -1,6 +1,6 @@
 # People Analytics: Technical Hiring Analysis
 
-## English Summary
+## Summary
 
 This project analyzes a synthetic technical hiring problem in a manufacturing company. It investigates time-to-fill growth, early attrition, source quality, manager-level patterns, and recruiting bottlenecks using Python-generated synthetic data.
 
